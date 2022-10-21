@@ -1,7 +1,5 @@
 # Time in time out
 
-
-## About
 This is a Markdown dairy created in order to document the process of creation of the project for the cours "Atelier labo" of the school HEAD - Genève (Master Media Design). 
 
 ## Objectives 
