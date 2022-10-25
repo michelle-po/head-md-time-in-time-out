@@ -24,7 +24,7 @@ The categories of activities into which the day was divided are as follows:
 * Other (Various commissions,not expeted actity,...)
 
 **The data collection table:**<br />
-<img src="/data/data.png"
+<img src="./data/data.png"
      alt="data"
      style="float: center;" />
 
@@ -33,7 +33,7 @@ The categories of activities into which the day was divided are as follows:
  With this data, it is finally possible to create the five-day activity rate graph.     
 
 **The time pie graphic:** <br />
-<img src="/data/pie.png"
+<img src="./data/pie.png"
      alt="pie"
      style="float: center;" />
 
@@ -42,7 +42,7 @@ The graph shows a high percentage of time spent sleeping, eating and in transpor
 The results as predicted by the incipit of this exercise would be finished, but an interesting analysis would be the comparison of the percentages of the different days. 
 
 **The time differences graphic:** <br />
-<img src="/data/differences.png"
+<img src="./data/differences.png"
      alt="differences"
      style="float: center;" />
 
