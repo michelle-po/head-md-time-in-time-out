@@ -5,12 +5,12 @@ This exercise aims to highlight how the hours of the day are 'spent' in differen
 Each day the various activities and the duration of each one will be noted in a Excel table. All the data will be rounded to the nearest half-hour for simplification and more pleasant reading output.
 
 ## SAMPLING
- * Subject: Me
- * Duration: 5 days (Friday to Tuesday)
- * Context: Weekend visiting family in Ticino and dad birthday meal
- * Tools: Excel
+ * **Subject:** Me
+ * **Duration:** 5 days (Friday to Tuesday)
+ * **Context:** Weekend visiting family in Ticino and dad birthday meal
+ * **Tools:** Excel
 
-## EXEPTED OUTPUT
+## EXPECTED OUTPUT
 The end result will be a pie chart with the percentages of the different activities over 5 days of collected data. This graph will highlight the major activities and give a little perspective on the subject's habits and lifestyle. 
 
 ## RESULTS
