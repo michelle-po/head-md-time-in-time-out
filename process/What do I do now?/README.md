@@ -11,7 +11,7 @@
   alt="alarm clock"
   style="display: inline-block; margin: 0 auto; width: 200px">
   <img
-  src="photos/3."
+  src="photos/3.PNG"
   alt="alarm clock"
   style="display: inline-block; margin: 0 auto; width: 200px">
   <img
@@ -19,7 +19,7 @@
   alt="alarm clock"
   style="display: inline-block; margin: 0 auto; width: 200px">
     <img
-  src="photos/5.jpeg"
+  src="photos/5.PNG"
   alt="alarm clock"
   style="display: inline-block; margin: 0 auto; width: 200px">
       <img
@@ -43,7 +43,7 @@
   alt="alarm clock"
   style="display: inline-block; margin: 0 auto; width: 200px">
   <img
-  src="photos/10.PNG"
+  src="photos/11.PNG"
   alt="alarm clock"
   style="display: inline-block; margin: 0 auto; width: 200px">
     <img
