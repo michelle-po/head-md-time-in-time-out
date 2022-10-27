@@ -22,3 +22,9 @@ will be the final prototyping stage and will be articulated with the Electronics
  <br />
  
 The result will be a collection of playful stories to wear and play around the wrist.
+
+
+
+## Pitches
+
+We will be exploring constantly writing and re-writing pitches. There is a pitches folder for all the pitches.
