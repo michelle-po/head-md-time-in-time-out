@@ -1,6 +1,6 @@
 # What do I do now?
 
-
+Photos of the places where one can see personal's schedule for the day:
 
 <img
   src="photos/1.PNG"

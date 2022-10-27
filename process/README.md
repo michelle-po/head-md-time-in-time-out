@@ -13,5 +13,7 @@ Here are all the process used during the cours to be able to build the final pro
 
 **Week 2 (26-27.10.22):**  <br />
 * Presentation of my project[My Time Pie](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/process/My%20time%20pie)
-* Exercice for home gor the first pitch
 * Presentation of github historic functions
+* Observation [What do I do now](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/process/What%20do%20I%20do%20now%3F)
+* Observation [People management of time](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/process/People%20management%20of%20time)
+* Exercice for home gor the [first pitch](https://github.com/michelle-po/head-md-time-in-time-out/blob/main/pitches/pitch-2022-10-27.md)
