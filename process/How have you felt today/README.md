@@ -3,8 +3,8 @@
 ## METHODOLOGY
 In this analysis, I asked people in my circle of friends to draw their emotions during the same day. In order to have an equal starting point among all participants, I chose to provide a drawing template: 
 
-<img src="/How_have_you_felt_today.png"
-     alt="data"
+<img src="./How_have_you_felt_today.png"
+     alt="form"
      style="float: center; width: 300px"/>
 
 ## SAMPLING
