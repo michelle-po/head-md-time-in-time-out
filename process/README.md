@@ -12,8 +12,14 @@ Here are all the process used during the cours to be able to build the final pro
 * Exercice for home brief
 
 **Week 2 (26-27.10.22):**  <br />
-* Presentation of my project[My Time Pie](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/process/My%20time%20pie)
+* Presentation of my observation [My Time Pie](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/process/My%20time%20pie)
 * Presentation of github historic functions
 * Observation [What do I do now](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/process/What%20do%20I%20do%20now%3F)
 * Observation [People management of time](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/process/People%20management%20of%20time)
-* Exercice for home gor the [first pitch](https://github.com/michelle-po/head-md-time-in-time-out/blob/main/pitches/pitch-2022-10-27.md)
+* Exercice for home for the [first pitch](https://github.com/michelle-po/head-md-time-in-time-out/blob/main/pitches/pitch-2022-10-27.md)
+
+**Week 3 (02-03.11.22):**  <br />
+* Presentation of my [second pitch](https://github.com/michelle-po/head-md-time-in-time-out/blob/main/pitches/pitch-2022-11-02.md)
+* Observation results[People management of time](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/process/People%20management%20of%20time)
+* Observation [How have you felt today](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/process/How%20have%20you%20felt%20today)
+

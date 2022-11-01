@@ -21,9 +21,8 @@ In this analysis, I asked people in my circle of friends to draw their emotions 
 ## RESULTS
 Some answers were very basic, such as the description of tiredness as a feeling and the depiction of anxiety with a computer in hand and an unsmiling face. 
 
-**The data collection table:**<br />
-<img src="./data/data.png"
-     alt="data"
+<img src="./results/2.jpg"
+     alt="exemple of result"
      style="float: center;" />
 
  ## CONCLUSION
