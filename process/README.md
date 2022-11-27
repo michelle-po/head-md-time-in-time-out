@@ -20,6 +20,10 @@ Here are all the process used during the cours to be able to build the final pro
 
 **Week 3 (02-03.11.22):**  <br />
 * Presentation of my [second pitch](https://github.com/michelle-po/head-md-time-in-time-out/blob/main/pitches/pitch-2022-11-02.md)
-* Observation results[People management of time](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/process/People%20management%20of%20time)
+* Observation results [People management of time](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/process/People%20management%20of%20time)
 * Observation [How have you felt today](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/process/How%20have%20you%20felt%20today)
+
+**Week 4 (28-29.11.22):**  <br />
+* Presentation of my [Narration pitch](https://github.com/michelle-po/head-md-time-in-time-out/blob/main/pitches/pitch-2022-11-28.md)
+* First [Twine](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/prototype/twine/stressline.html) idea 
 
