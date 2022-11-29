@@ -26,4 +26,5 @@ Here are all the process used during the cours to be able to build the final pro
 **Week 4 (28-29.11.22):**  <br />
 * Presentation of my [Narration pitch](https://github.com/michelle-po/head-md-time-in-time-out/blob/main/pitches/pitch-2022-11-28.md)
 * First [Twine](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/prototype/twine/stressline.html) idea 
-
+* Final idea [Pitch](https://github.com/michelle-po/head-md-time-in-time-out/blob/main/pitches/pitch-2022-11-28.md)
+* Observation [In time movie](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/process/In%Time%20movie)
