@@ -28,3 +28,12 @@ Here are all the process used during the cours to be able to build the final pro
 * First [Twine](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/prototype/twine/stressline.html) idea 
 * Final idea [Pitch](https://github.com/michelle-po/head-md-time-in-time-out/blob/main/pitches/pitch-2022-11-28.md)
 * Observation [In time movie](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/process/In%Time%20movie)
+
+**Week 5 (05-06.12.22):**  <br />
+* Feedback on Input/Outuput possibility by Douglas
+* Final object 
+* Shapes ideas 
+
+**Week 6 (12-13.12.22):**  <br />
+* Storyboard
+* Components research 
