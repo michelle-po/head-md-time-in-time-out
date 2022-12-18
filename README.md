@@ -27,4 +27,11 @@ The result will be a collection of playful stories to wear and play around the w
 
 ## Pitches
 
-We will be exploring constantly writing and re-writing pitches. There is a pitches folder for all the pitches.
+We will be exploring constantly writing and re-writing pitches. There is a [pitches](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/pitches) folder for all the pitches.
+
+## Process
+In [process](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/process) will be stocked all the researches and observation done. Another object folder is there with all the researches linked to the final prototype 
+
+
+## Prototype
+In this folder will appear all files and sketches linked to the final objects, the final [prototype](https://github.com/michelle-po/head-md-time-in-time-out/tree/main/prototype)
