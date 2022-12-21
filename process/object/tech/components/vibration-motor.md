@@ -2,5 +2,6 @@
 
 
 * STATUS: check with pierre
-* AVAILABILITY: 
+* AVAILABILITY: everywhere
+* PRICE: around 2$
 

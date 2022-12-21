@@ -4,6 +4,7 @@ Single or with multiple numbers, usefull to display the number of remaining upco
 
 * STATUS: check availability in MMD or need to order it 
 * AVAILABILITY: [4 numbers adafruit from distrelec](https://www.distrelec.ch/de/stellige-segmentanzeige-mit-i2c-rucksack-adafruit-878/p/30091223?trackQuery=7-Segment+Led&pos=38&origPos=38&origPageSize=50&track=true)
+PRICE: around $10
 
 </br>
 <img

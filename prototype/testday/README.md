@@ -19,4 +19,15 @@ B) Going through the narration normally, but the time left is proportional on th
 * Subject: HEAD's student by groups, MMD1 & MMD2 classes
 
 ## Results
+* sometimes for user it was difficult to understand the role they were playing (sombody needing help/givin help)
+--> it's essential to be clear on the first phrase, the approach of the interaction, to understand that we are helping people on the phone with our answers. Whitout context is not efficiant. </br>
+
+* be careful on how question are asked, the sintax can change the answer and the specifical word used by the user on the phone. If's not the right maybe it won't work. </br>
+--> have THE trigger world + 1 option?</br>
+
+* The B version (volume timing) doesn't work, this was not understanded! It was interpreted as a fault of the connection on the phone or a mistake on the prototype</br>
+--> version A was better received, users told that seeing the time runs out caused a feeling of stress on them. 
+</br>
+* More than one people take some time to understand that they needed to asnwer only with one word. They were trying to confort the person on the phone using phrases. </br>
+--> The solution was repeating the question until there was a triggering aswer by the user. 
 
