@@ -19,7 +19,7 @@ B) Going through the narration normally, but the time left is proportional on th
 * Subject: HEAD's student by groups, MMD1 & MMD2 classes
 
 ## Results
-* sometimes for user it was difficult to understand the role they were playing (sombody needing help/givin help)
+* sometimes for user it was difficult to understand the role they were playing (sombody needing help/givin help)</br>
 --> it's essential to be clear on the first phrase, the approach of the interaction, to understand that we are helping people on the phone with our answers. Whitout context is not efficiant. </br>
 
 * be careful on how question are asked, the sintax can change the answer and the specifical word used by the user on the phone. If's not the right maybe it won't work. </br>
