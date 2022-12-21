@@ -27,7 +27,7 @@ B) Going through the narration normally, but the time left is proportional on th
 
 * The B version (volume timing) doesn't work, this was not understanded! It was interpreted as a fault of the connection on the phone or a mistake on the prototype</br>
 --> version A was better received, users told that seeing the time runs out caused a feeling of stress on them. 
-</br>$
+</br>
 
 * More than one people take some time to understand that they needed to asnwer only with one word. They were trying to confort the person on the phone using phrases. </br>
 --> The solution was repeating the question until there was a triggering aswer by the user. 
